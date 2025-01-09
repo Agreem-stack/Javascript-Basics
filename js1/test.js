@@ -25,4 +25,17 @@ let x;
 let y;
 let z;
 
-console.table(a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u,v,w,x,y,z)
+
+
+g = 56;
+n = 67;
+e = 30;
+p = 36;
+h = 33;
+f = 55;
+c = 66;
+k = 73;
+
+
+console.table([a, b, c, d, e, f, g, h, i,
+    j, k, l, m, n, o, p, q, r, s, t, u, v, w, x, y, z])
